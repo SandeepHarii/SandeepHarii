@@ -41,9 +41,9 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect) | Full **n-tier MVC web platform** with EF Core, role-based access, CRUD, filtering, secure image uploads, responsive Bootstrap UI | ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
-| 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System) | Workflow-driven multi-stage approval system with role-specific dashboards, SSRS reporting, REST API, SMTP notifications | ASP.NET Core, EF Core, SQL Server, SSRS, Web API |
-| 🛒 [KhumaloCraft Emporium](https://github.com/SandeepHarii/KhumaloCraft-Emporium) | Azure cloud-native e-commerce platform with role-based auth, product catalog, order system, admin interface, Cognitive Search & Durable Functions | ASP.NET Core, Azure App Service, Azure SQL, Cognitive Search, Durable Functions |
+| 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect){:target="_blank"} | Full **n-tier MVC web platform** with EF Core, role-based access, CRUD, filtering, secure image uploads, responsive Bootstrap UI | ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
+| 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System){:target="_blank"} | Workflow-driven multi-stage approval system with role-specific dashboards, SSRS reporting, REST API, SMTP notifications | ASP.NET Core, EF Core, SQL Server, SSRS, Web API |
+| 🛒 [KhumaloCraft Emporium](https://github.com/SandeepHarii/KhumaloCraft-Emporium){:target="_blank"} | Azure cloud-native e-commerce platform with role-based auth, product catalog, order system, admin interface, Cognitive Search & Durable Functions | ASP.NET Core, Azure App Service, Azure SQL, Cognitive Search, Durable Functions |
 
 ---
 
@@ -66,13 +66,13 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 ## 🔗 Portfolio
 
-[View my full portfolio & CV](https://sandeepharii.github.io/Sandeep-Hari-CV/)
+[View my full portfolio & CV](https://sandeepharii.github.io/Sandeep-Hari-CV/){:target="_blank"}
 
 ---
 
 ## 📫 Contact Me
 
-- Email: [Sandeep.Hari19@gmail.com](mailto:Sandeep.Hari19@gmail.com)  
-- LinkedIn: [linkedin.com/in/sandeep-hari](https://www.linkedin.com/in/sandeep-hari-842b20292/)  
-- GitHub: [github.com/SandeepHarii](https://github.com/SandeepHarii)  
+- Email: [Sandeep.Hari19@gmail.com](mailto:Sandeep.Hari19@gmail.com){:target="_blank"}  
+- LinkedIn: [linkedin.com/in/sandeep-hari](https://www.linkedin.com/in/sandeep-hari-842b20292/){:target="_blank"}  
+- GitHub: [github.com/SandeepHarii](https://github.com/SandeepHarii){:target="_blank"}  
 - Location: Randburg, South Africa
