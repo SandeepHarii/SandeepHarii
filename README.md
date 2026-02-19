@@ -39,58 +39,27 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 ## 🔥 Featured Projects
 
-### 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect) – ASP.NET Core Web Platform
-**Tech Stack:** ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-- Full **n-tier MVC architecture** with EF Core  
-- **Role-based access:** Farmer & Employee using ASP.NET Identity  
-- CRUD operations, real-time filtering, secure image uploads  
-- Responsive **Bootstrap UI**, works without JavaScript  
-- Clean, maintainable, and scalable codebase  
-
-**GitHub Stats:**  
-[![Stars](https://img.shields.io/github/stars/SandeepHarii/Agri-Energy-Connect?style=flat-square)](https://github.com/SandeepHarii/Agri-Energy-Connect/stargazers)  
-[![Forks](https://img.shields.io/github/forks/SandeepHarii/Agri-Energy-Connect?style=flat-square)](https://github.com/SandeepHarii/Agri-Energy-Connect/network/members)  
-[![Last Commit](https://img.shields.io/github/last-commit/SandeepHarii/Agri-Energy-Connect?style=flat-square)](https://github.com/SandeepHarii/Agri-Energy-Connect/commits/main)
-
----
-
-### 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System)
-**Tech Stack:** ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge) ![Web API](https://img.shields.io/badge/Web_API-007ACC?style=for-the-badge)
-
-- Automated multi-stage approval workflows  
-- Role-specific dashboards for employees, finance, and HR  
-- **SQL Server Reporting Services (SSRS)** for reports & invoices  
-- RESTful API integration, SMTP notifications, and secure file handling  
-- Unit tests, error handling, and clean Git workflow  
-
-**GitHub Stats:**  
-[![Stars](https://img.shields.io/github/stars/SandeepHarii/Contract-Monthly-Claim-System?style=flat-square)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System/stargazers)  
-[![Forks](https://img.shields.io/github/forks/SandeepHarii/Contract-Monthly-Claim-System?style=flat-square)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System/network/members)  
-[![Last Commit](https://img.shields.io/github/last-commit/SandeepHarii/Contract-Monthly-Claim-System?style=flat-square)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System/commits/main)
-
----
-
-### 🛒 [KhumaloCraft Emporium](https://github.com/SandeepHarii/KhumaloCraft-Emporium)
-**Tech Stack:** ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Durable Functions](https://img.shields.io/badge/Durable_Functions-0078D4?style=for-the-badge)
-
-- Full-stack Azure cloud-native e-commerce platform  
-- Role-based auth, product catalog, order system, admin interface  
-- **Azure Cognitive Search** for smart search & **Durable Functions** for automation  
-- GitHub version control and cloud-native deployment  
-
-**GitHub Stats:**  
-[![Stars](https://img.shields.io/github/stars/SandeepHarii/KhumaloCraft-Emporium?style=flat-square)](https://github.com/SandeepHarii/KhumaloCraft-Emporium/stargazers)  
-[![Forks](https://img.shields.io/github/forks/SandeepHarii/KhumaloCraft-Emporium?style=flat-square)](https://github.com/SandeepHarii/KhumaloCraft-Emporium/network/members)  
-[![Last Commit](https://img.shields.io/github/last-commit/SandeepHarii/KhumaloCraft-Emporium?style=flat-square)](https://github.com/SandeepHarii/KhumaloCraft-Emporium/commits/main)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect) | Full **n-tier MVC web platform** with EF Core, role-based access, CRUD, filtering, secure image uploads, responsive Bootstrap UI | ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
+| 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System) | Workflow-driven multi-stage approval system with role-specific dashboards, SSRS reporting, REST API, SMTP notifications | ASP.NET Core, EF Core, SQL Server, SSRS, Web API |
+| 🛒 [KhumaloCraft Emporium](https://github.com/SandeepHarii/KhumaloCraft-Emporium) | Azure cloud-native e-commerce platform with role-based auth, product catalog, order system, admin interface, Cognitive Search & Durable Functions | ASP.NET Core, Azure App Service, Azure SQL, Cognitive Search, Durable Functions |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeepHarii&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepHarii&layout=compact&theme=tokyonight&hide_border=true" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SandeepHarii&show_icons=true&theme=tokyonight&hide_border=true" alt="Sandeep's GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepHarii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
