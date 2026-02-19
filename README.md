@@ -41,9 +41,9 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect){:target="_blank"} | Full **n-tier MVC web platform** with EF Core, role-based access, CRUD, filtering, secure image uploads, responsive Bootstrap UI | ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
-| 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System){:target="_blank"} | Workflow-driven multi-stage approval system with role-specific dashboards, SSRS reporting, REST API, SMTP notifications | ASP.NET Core, EF Core, SQL Server, SSRS, Web API |
-| 🛒 [KhumaloCraft Emporium](https://github.com/SandeepHarii/KhumaloCraft-Emporium){:target="_blank"} | Azure cloud-native e-commerce platform with role-based auth, product catalog, order system, admin interface, Cognitive Search & Durable Functions | ASP.NET Core, Azure App Service, Azure SQL, Cognitive Search, Durable Functions |
+| 🌾 <a href="https://github.com/SandeepHarii/Agri-Energy-Connect" target="_blank">Agri Energy Connect</a> | Full **n-tier MVC web platform** with EF Core, role-based access, CRUD, filtering, secure image uploads, responsive Bootstrap UI | ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
+| 📄 <a href="https://github.com/SandeepHarii/Contract-Monthly-Claim-System" target="_blank">Contract Monthly Claim System (CMCS)</a> | Workflow-driven multi-stage approval system with role-specific dashboards, SSRS reporting, REST API, SMTP notifications | ASP.NET Core, EF Core, SQL Server, SSRS, Web API |
+| 🛒 <a href="https://github.com/SandeepHarii/KhumaloCraft-Emporium" target="_blank">KhumaloCraft Emporium</a> | Azure cloud-native e-commerce platform with role-based auth, product catalog, order system, admin interface, Cognitive Search & Durable Functions | ASP.NET Core, Azure App Service, Azure SQL, Cognitive Search, Durable Functions |
 
 ---
 
@@ -53,7 +53,9 @@ Open to **Junior / Graduate Developer roles** in South Africa.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SandeepHarii&show_icons=true&theme=tokyonight&hide_border=true" alt="Sandeep's GitHub Stats"/>
+        <a href="https://github.com/SandeepHarii" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api?username=SandeepHarii&show_icons=true&theme=tokyonight&hide_border=true" alt="Sandeep's GitHub Stats"/>
+        </a>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepHarii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
@@ -66,13 +68,13 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 ## 🔗 Portfolio
 
-[View my full portfolio & CV](https://sandeepharii.github.io/Sandeep-Hari-CV/){:target="_blank"}
+<a href="https://sandeepharii.github.io/Sandeep-Hari-CV/" target="_blank">View my full portfolio & CV</a>
 
 ---
 
 ## 📫 Contact Me
 
-- Email: [Sandeep.Hari19@gmail.com](mailto:Sandeep.Hari19@gmail.com){:target="_blank"}  
-- LinkedIn: [linkedin.com/in/sandeep-hari](https://www.linkedin.com/in/sandeep-hari-842b20292/){:target="_blank"}  
-- GitHub: [github.com/SandeepHarii](https://github.com/SandeepHarii){:target="_blank"}  
+- Email: <a href="mailto:Sandeep.Hari19@gmail.com" target="_blank">Sandeep.Hari19@gmail.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/sandeep-hari-842b20292/" target="_blank">linkedin.com/in/sandeep-hari</a>  
+- GitHub: <a href="https://github.com/SandeepHarii" target="_blank">github.com/SandeepHarii</a>  
 - Location: Randburg, South Africa
