@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sandeep 👋
 
-<!--
-**SandeepHarii/SandeepHarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCIS Graduate (2026) | Aspiring Software Developer  
+Focused on ASP.NET Core, Azure, and scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor of Computer and Information Sciences – Application Development
+- 💻 Building real-world web applications using ASP.NET Core & EF Core
+- ☁️ Experience with Microsoft Azure (App Service, SQL Database, Cognitive Search)
+- 🧠 Strong foundation in databases, system design, and clean architecture
+- 🎯 Seeking Junior / Graduate Developer roles
+
+## 🛠 Tech Stack
+
+**Languages:** C#, JavaScript, SQL, Java, Kotlin  
+**Frameworks:** ASP.NET Core MVC, EF Core, React, React Native  
+**Cloud:** Microsoft Azure  
+**Databases:** SQL Server, Azure SQL, MySQL, Oracle, MongoDB  
+
+## 🔥 Featured Projects
+
+- 🌾 Agri Energy Connect – Role-based ASP.NET Core web app  
+- 📄 Contract Monthly Claim System – Workflow & reporting system  
+- 🛒 KhumaloCraft Emporium – Azure cloud-native e-commerce platform  
+
+## 🌐 Portfolio
+
+🔗 https://sandeepharii.github.io/Sandeep-Hari-CV/
+
+---
+
+Thanks for visiting my profile.
