@@ -50,22 +50,12 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/SandeepHarii">
-          <img src="https://github-readme-stats.vercel.app/api?username=SandeepHarii&show_icons=true&theme=tokyonight&hide_border=true" alt="Sandeep's GitHub Stats"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SandeepHarii">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepHarii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=SandeepHarii&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Sandeep's GitHub Stats" width="450"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepHarii&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="450"/>
+</p>
 ---
 
 ## 🔗 Portfolio
