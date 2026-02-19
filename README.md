@@ -39,11 +39,35 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌾 <a href="https://github.com/SandeepHarii/Agri-Energy-Connect" target="_blank">Agri Energy Connect</a> | Full **n-tier MVC web platform** with EF Core, role-based access, CRUD, filtering, secure image uploads, responsive Bootstrap UI | ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
-| 📄 <a href="https://github.com/SandeepHarii/Contract-Monthly-Claim-System" target="_blank">Contract Monthly Claim System (CMCS)</a> | Workflow-driven multi-stage approval system with role-specific dashboards, SSRS reporting, REST API, SMTP notifications | ASP.NET Core, EF Core, SQL Server, SSRS, Web API |
-| 🛒 <a href="https://github.com/SandeepHarii/KhumaloCraft-Emporium" target="_blank">KhumaloCraft Emporium</a> | Azure cloud-native e-commerce platform with role-based auth, product catalog, order system, admin interface, Cognitive Search & Durable Functions | ASP.NET Core, Azure App Service, Azure SQL, Cognitive Search, Durable Functions |
+### 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect){:target="_blank"} – ASP.NET Core Web Platform
+**Tech Stack:** ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- Full **n-tier MVC architecture** with EF Core  
+- **Role-based access:** Farmer & Employee using ASP.NET Identity  
+- CRUD operations, real-time filtering, secure image uploads  
+- Responsive **Bootstrap UI**, works without JavaScript  
+- Clean, maintainable, and scalable codebase  
+
+---
+
+### 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System){:target="_blank"}
+**Tech Stack:** ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge) ![Web API](https://img.shields.io/badge/Web_API-007ACC?style=for-the-badge)
+
+- Automated multi-stage approval workflows  
+- Role-specific dashboards for employees, finance, and HR  
+- **SQL Server Reporting Services (SSRS)** for reports & invoices  
+- RESTful API integration, SMTP notifications, and secure file handling  
+- Unit tests, error handling, and clean Git workflow  
+
+---
+
+### 🛒 [KhumaloCraft Emporium](https://github.com/SandeepHarii/KhumaloCraft-Emporium){:target="_blank"}
+**Tech Stack:** ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Durable Functions](https://img.shields.io/badge/Durable_Functions-0078D4?style=for-the-badge)
+
+- Full-stack Azure cloud-native e-commerce platform  
+- Role-based auth, product catalog, order system, admin interface  
+- **Azure Cognitive Search** for smart search & **Durable Functions** for automation  
+- GitHub version control and cloud-native deployment  
 
 ---
 
@@ -58,7 +82,9 @@ Open to **Junior / Graduate Developer roles** in South Africa.
         </a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepHarii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+        <a href="https://github.com/SandeepHarii" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepHarii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -68,13 +94,13 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 ## 🔗 Portfolio
 
-<a href="https://sandeepharii.github.io/Sandeep-Hari-CV/" target="_blank">View my full portfolio & CV</a>
+[View my full portfolio & CV](https://sandeepharii.github.io/Sandeep-Hari-CV/){:target="_blank"}
 
 ---
 
 ## 📫 Contact Me
 
-- Email: <a href="mailto:Sandeep.Hari19@gmail.com" target="_blank">Sandeep.Hari19@gmail.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/sandeep-hari-842b20292/" target="_blank">linkedin.com/in/sandeep-hari</a>  
-- GitHub: <a href="https://github.com/SandeepHarii" target="_blank">github.com/SandeepHarii</a>  
+- Email: [Sandeep.Hari19@gmail.com](mailto:Sandeep.Hari19@gmail.com){:target="_blank"}  
+- LinkedIn: [linkedin.com/in/sandeep-hari](https://www.linkedin.com/in/sandeep-hari-842b20292/){:target="_blank"}  
+- GitHub: [github.com/SandeepHarii](https://github.com/SandeepHarii){:target="_blank"}  
 - Location: Randburg, South Africa
