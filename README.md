@@ -60,6 +60,7 @@ Open to **Junior / Graduate Developer roles** in South Africa.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepHarii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="450"/>
   </a>
 </p>
+
 ---
 
 ## 🔗 Portfolio
