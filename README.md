@@ -41,16 +41,8 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect) | 
-**Problem** 
-Farmers had no centralized access to tech solutions, and green energy providers struggled to reach the right clients. 
-
-**Solution** 
-A web-based digital platform that connects farmers with technology and energy providers through product listings and collaboration tools. 
-
-**Tech** Built with ASP.NET Core MVC using n-tier architecture, ASP.NET Identity for role-based authentication, CRUD operations with AJAX filtering, secure image uploads, and a responsive Bootstrap UI with validation.
-
-| ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
+| 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect) | **Problem** Farmers had no centralized access to tech solutions, and green energy providers struggled to reach the right clients. **Solution** 
+A web-based digital platform that connects farmers with technology and energy providers through product listings and collaboration tools. **Tech** Built with ASP.NET Core MVC using n-tier architecture, ASP.NET Identity for role-based authentication, CRUD operations with AJAX filtering, secure image uploads, and a responsive Bootstrap UI with validation.| ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
 | 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System) | 
 **Problem**
 Manual claim submissions were slow, error-prone, and lacked transparency, causing delays and admin bottlenecks.
