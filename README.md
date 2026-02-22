@@ -41,9 +41,39 @@ Open to **Junior / Graduate Developer roles** in South Africa.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect) | Full **n-tier MVC web platform** with EF Core, role-based access, CRUD, filtering, secure image uploads, responsive Bootstrap UI | ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
-| 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System) | Workflow-driven multi-stage approval system with role-specific dashboards, SSRS reporting, REST API, SMTP notifications | ASP.NET Core, EF Core, SQL Server, SSRS, Web API |
-| 🛒 [KhumaloCraft Emporium](https://github.com/SandeepHarii/KhumaloCraft-Emporium) | Azure cloud-native e-commerce platform with role-based auth, product catalog, order system, admin interface, Cognitive Search & Durable Functions | ASP.NET Core, Azure App Service, Azure SQL, Cognitive Search, Durable Functions |
+| 🌾 [Agri Energy Connect](https://github.com/SandeepHarii/Agri-Energy-Connect) | 
+**Problem** 
+Farmers had no centralized access to tech solutions, and green energy providers struggled to reach the right clients. 
+
+**Solution** 
+A web-based digital platform that connects farmers with technology and energy providers through product listings and collaboration tools. 
+
+**Tech** Built with ASP.NET Core MVC using n-tier architecture, ASP.NET Identity for role-based authentication, CRUD operations with AJAX filtering, secure image uploads, and a responsive Bootstrap UI with validation.
+
+| ASP.NET Core, EF Core, Bootstrap, jQuery, SQLite |
+| 📄 [Contract Monthly Claim System (CMCS)](https://github.com/SandeepHarii/Contract-Monthly-Claim-System) | 
+**Problem**
+Manual claim submissions were slow, error-prone, and lacked transparency, causing delays and admin bottlenecks.
+
+**Solution**
+A web-based claim management system with role-specific dashboards and automated approval workflows to streamline the entire process.
+
+**Tech**
+Built with ASP.NET Core MVC using a multi-tier architecture, EF Core, and Windows Workflow Foundation.
+Role-based access control, RESTful API with AJAX interactions, SSRS reporting, secure document uploads, SMTP notifications, and structured testing with layered error handling.
+| ASP.NET Core, EF Core, SQL Server, SSRS, Web API |
+| 🛒 [KhumaloCraft Emporium](https://github.com/SandeepHarii/KhumaloCraft-Emporium) | 
+**Problem**
+The client needed a scalable global e-commerce platform but lacked the technical infrastructure to support it.
+
+**Solution**
+A cloud-hosted e-commerce web app with product catalogues, order processing, and automated cloud-based services.
+
+**Tech**
+Built with ASP.NET Core and deployed on Azure App Service with Azure SQL Database.
+Includes product and order management, Azure Cognitive Search for advanced search, Azure Durable Functions for automation, and a relational database for users, products, and transactions.
+
+| ASP.NET Core, Azure App Service, Azure SQL, Cognitive Search, Durable Functions |
 
 ---
 
