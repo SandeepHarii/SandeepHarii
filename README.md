@@ -1,28 +1,40 @@
 # Sandeep Hari 🚀
 
-BCIS Graduate (2026) | Aspiring Software Developer Focused on **ASP.NET Core**, **Azure**, and building **scalable, real-world web applications**. Open to **Junior / Graduate Developer roles** in South Africa.
+**AWS Certified Solutions Architect – Associate | Cloud Learner at Nedbank | Application Development Graduate**
+
+I build software and cloud solutions with a focus on practical architecture, backend development and reliable systems. My background includes full-stack ASP.NET Core applications, Microsoft Azure and AWS serverless development.
+
+Currently gaining hands-on cloud experience through the **Nedbank–BankSETA Cloud Learnership** in South Africa.
+
 
 ---
 
 ## 👋 About Me
 
-- Full-stack ASP.NET Core applications with **n-tier architecture** & EF Core (Code-First)
-- Hands-on with **Azure App Service, SQL Database, Cognitive Search, Durable Functions**
-- Solid foundation in **authentication, role-based access, workflows, clean architecture**
-- Experienced in **HTML, CSS, JavaScript, Bootstrap, jQuery** for responsive UIs
-- Passionate about **problem-solving**, clean code, and building scalable software solutions
+- 🎓 Bachelor of Computer and Information Sciences in Application Development, **IIE Varsity College (2026)**
+- ☁️ **AWS Certified Solutions Architect – Associate** (earned November 2026)
+- 💼 **Cloud Learnership at Nedbank**, started July 2026
+- 🛠️ Built **FinTrust**, a serverless transaction-processing and risk-monitoring system using AWS, Python, PostgreSQL, DynamoDB and React
+- 💻 Experience building full-stack applications with **ASP.NET Core, C#, EF Core, SQL and Azure**
+- 📍 Based in Johannesburg, South Africa
+
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -36,6 +48,20 @@ BCIS Graduate (2026) | Aspiring Software Developer Focused on **ASP.NET Core**, 
 ---
 
 ## 🔥 Featured Projects
+
+### ☁️ [FinTrust: Transaction Insights and Risk Monitoring](https://github.com/SandeepHarii/fintrust-risk-system)
+
+An AWS serverless system that ingests CSV transactions, validates and quarantines invalid records, evaluates transaction risk and provides insights through a React dashboard and REST API.
+
+**Tech:** Python, React, AWS Lambda, S3, SQS FIFO, Step Functions, API Gateway, PostgreSQL (RDS), DynamoDB, SES and CloudWatch.
+
+**Highlights:** Rule-based risk detection, upload progress tracking, asynchronous processing, notifications, reporting, automated testing and CI.
+
+Built as a solo capstone project in October 2026. **Awarded second place (90/100).** The original AWS demo environment is currently shut down to control costs.
+
+[Explore the repository](https://github.com/SandeepHarii/fintrust-risk-system) · [Architecture and documentation](https://github.com/SandeepHarii/fintrust-risk-system/blob/develop/README.md)
+
+### Other featured projects
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
